@@ -10,3 +10,4 @@
 # 소스트리 및 비주얼 스튜디오 코드 설치
   * https://www.sourcetreeapp.com 소스트리 다운로드
   * https://code.visualstudio.com 비주얼 스튜디오 코드 다운로드
+  * branch 만들고 활용하기
