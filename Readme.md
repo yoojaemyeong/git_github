@@ -1,6 +1,7 @@
 # Git 소스버전관리시스템 및 Github 연동
   * git init
   * git add 파일명
+  * git reset 파일명
   * git commit -m "파일 등록"
   * git config --global user.name "username"
   * git config --global user.email "username@url"
