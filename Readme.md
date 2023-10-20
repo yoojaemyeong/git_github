@@ -5,7 +5,13 @@
   * git config --global user.name "username"
   * git config --global user.email "username@url"
   * git push origin main
-  * git pull origin main 
+  * git pull origin main
+  * git branch <branch name> [체크섬]
+  * git switch <branch name>
+  * git switch -c <branch name> [체크섬]
+  * git merge <대상 브랜치>
+  * git rebase <대상 브랜치>
+    
 
 # 소스트리 및 비주얼 스튜디오 코드 설치
   * https://www.sourcetreeapp.com 소스트리 다운로드
